@@ -24,7 +24,8 @@ Here are 3 of xDai's most useful characteristics:
 
 ### Required Readings
 - https://jaredstauffer.medium.com/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6
-
+- https://www.xdaichain.com/
+- 
 ## 2. Practice
 ### Using MetaMask
 To set up xDai on Metamask, go to: https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup and follow the instructions.
